@@ -1,0 +1,7 @@
+{
+  "name": "REIS NFC & Vision",
+  "description": "Leitor industrial híbrido: NFC por aproximação e Visão computacional para leitura de tags à distância.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
